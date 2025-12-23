@@ -25,6 +25,6 @@ email reminders, and background processing.
 🔗 Repository: https://github.com/pradivliany/smart-notes-app
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/ing-yaroslav-pradyvlianyi-856618180/
+- LinkedIn: https://www.linkedin.com/in/yaroslav-pradyvlianyi/
 - GitHub: https://github.com/pradivliany
 - Email: yaroslavpradyvlianyi@gmail.com
