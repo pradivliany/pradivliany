@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**pradivliany/pradivliany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ing. Yaroslav Pradyvlianyi
 
-Here are some ideas to get you started:
+Junior Python / Django Developer / FastAPI Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+I am a Python developer focused on backend development with Django / FastAPI.
+I build web applications with authentication, background tasks, email notifications,
+and Dockerized environments.
+
+## Tech Stack
+- Python, Django, FastAPI
+- PostgreSQL
+- Celery, Redis
+- Docker, Docker Compose
+- HTML, CSS, Bootstrap
+- Git, pytest
+
+## Featured Project
+### Smart Notes App
+A Django web application for smart note and task management with deadlines,
+email reminders, and background processing.
+
+🔗 Repository: https://github.com/pradivliany/smart-notes-app
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/ing-yaroslav-pradyvlianyi-856618180/
+- GitHub: https://github.com/pradivliany
+- Email: yaroslavpradyvlianyi@gmail.com
