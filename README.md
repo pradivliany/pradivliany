@@ -24,6 +24,12 @@ email reminders, and background processing.
 
 🔗 Repository: https://github.com/pradivliany/smart-notes-app
 
+### Smart Contacts API
+A FastAPI backend for managing personal contacts with secure authentication, full CRUD, search, and birthday reminders. 
+Dockerized and using PostgreSQL, SQLAlchemy, and Pydantic for validation.
+
+🔗 Repository: https://github.com/pradivliany/fastapi-smart-contacts
+
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/yaroslav-pradyvlianyi/
 - GitHub: https://github.com/pradivliany
